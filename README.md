@@ -33,8 +33,3 @@ python3 main.py train --environment CartPole-v1 --episodes 150 --batch_size 32 -
 
 For executing tests, just run `pytest` in the root directory.
 
-## Troubleshooting
-
-When I was installing dependecies I run into few errors. Hopefully everything neccessary is in requirements.txt, but if
-you encountered some problems feel free to reach out to me.
-
