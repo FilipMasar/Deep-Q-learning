@@ -1,0 +1,5 @@
+numpy
+gym
+tensorflow
+matplotlib
+gym[box2d]
